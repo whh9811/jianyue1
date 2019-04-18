@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"item-nick { margin-top: 10px; }\n.",[1],"item-newNN { margin-top: 20px; }\nwx-input { height: 50px; border-bottom: 1px solid #eee; margin-bottom: 5px; }\n.",[1],"green-btn { background-color: #00b26a; margin-top: 20px; }\n",],undefined,{path:"./pages/newname/newname.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/newname/newname.wxml') } }));

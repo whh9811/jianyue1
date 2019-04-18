@@ -1,0 +1,40 @@
+
+.uni-input{
+		height: 100rpx;
+}
+.sign-box {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.left {
+	-webkit-box-flex: 1;
+	-webkit-flex: 1 1 70%;
+	    -ms-flex: 1 1 70%;
+	        flex: 1 1 70%;
+}
+.green-btn1{
+	color: #FFFFFF;
+	background: -o-linear-gradient(50deg, #AFEEEE, #008080);
+	background: linear-gradient(40deg, #AFEEEE, #008080);
+}
+.green-btn2{
+	color: #FFFFFF;
+	background: #808080;
+}
+.small-btn {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	text-align: center;
+	width: 130px;
+	height: 35px;
+	font-size: 14px;
+}
+

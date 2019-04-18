@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"green-btn { margin-top: 20px; }\n",],undefined,{path:"./pages/password/password.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/password/password.wxml') } }));

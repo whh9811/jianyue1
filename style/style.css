@@ -1,0 +1,38 @@
+*{
+	font-size: 14pt;
+}
+.container {
+	width: 95%;
+	margin: 0 auto;
+}
+.avatar {
+	width: 60px;
+	height: 60px;
+	border-radius: 50%;
+}
+.list {
+	display: flex;
+	flex-direction: column;
+}
+.list-item {
+	width: 100%;
+	height: 40px;
+	background-color: #fff;
+	border-bottom: 1px solid #eee;
+}
+/* 选项卡 */
+	.tab{padding:0;}
+	/* 导航栏整体设置 */
+	.tab-title {white-space:nowrap; /* text-align:center; */}
+	/* 导航栏文字梳理 */
+	.tab-title view{width:auto; padding:0 8px; margin:0 8px; line-height:40px; display: inline-block; text-align:center;font-size:35upx;}
+	/* .tab-title view:first-child{margin-left: 0;}
+	.tab-title view:last-child{margin-right: 0;} */
+	/* 导航栏底部下划线设置 */
+	.tab-current{border-bottom:4upx solid #00C777 !important; color:#00C777;}
+	.tab-swiper{width:100%; height:350upx; padding:0;}
+	.tab-swiper swiper-item{width:100%;}
+	.tab-swiper swiper-item navigator{line-height:70upx; width:100%; display:block;}
+	.tab-swiper-full{width:100%; height:auto;}
+	.tab-swiper-full swiper-item{width:100%;}
+	.tab-swiper-full scroll-view{width:100%; height:100%;}

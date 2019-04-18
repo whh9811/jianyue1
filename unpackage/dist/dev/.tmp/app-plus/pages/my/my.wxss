@@ -1,0 +1,105 @@
+
+.top.data-v-f0965e58 {
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-orient: vertical;
+	-webkit-box-direction: normal;
+	-webkit-flex-direction: column;
+	    -ms-flex-direction: column;
+	        flex-direction: column;
+	height: 70px;
+	margin-top: 10px;
+}
+.avatar-box.data-v-f0965e58{
+	text-align: center;
+	margin-bottom: 10rpx;
+}
+.info-box.data-v-f0965e58{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin: 0 auto;
+	left: 0;
+	right: 0;
+	text-align: center;
+}
+.shezhi.data-v-f0965e58{
+	margin-left: 40rpx;
+	color: #2FBE80;
+	font-size: 32rpx;
+	font-weight: 600;
+}
+.num.data-v-f0965e58{
+	font-size: 40rpx;
+	text-align: center;
+}
+.top1.data-v-f0965e58{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	text-align: center;
+}
+.Bcard1.data-v-f0965e58{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	margin-top: 70rpx;
+	text-align: center;
+}
+.Scard.data-v-f0965e58{
+	width:300px;
+	height:50px;
+	border-right: 1px solid #EEEEEE;
+}
+.Scard1.data-v-f0965e58{
+	margin-top: 15rpx;
+	width: 100%%;
+	border-bottom: 1px solid #bfbfbf;
+}
+.acticle.data-v-f0965e58{
+	margin-bottom: 20rpx;
+}
+.text.data-v-f0965e58{
+	margin-bottom: 20rpx;
+	font-size: 30rpx;
+	color: #999999;
+}
+.icon.data-v-f0965e58{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-align: center;
+	-webkit-align-items: center;
+	    -ms-flex-align: center;
+	        align-items: center;
+}
+.icon-small.data-v-f0965e58{
+	width: 35rpx;
+	height: 35rpx;
+	margin-right: 10rpx;
+}
+.icon-size.data-v-f0965e58{
+	margin-right: 30rpx;
+	margin-bottom: 10rpx;
+	font-size: 30rpx;
+	color: #999999;
+}
+.setting.data-v-f0965e58{
+	display: -webkit-box;
+	display: -webkit-flex;
+	display: -ms-flexbox;
+	display: flex;
+	-webkit-box-pack: center;
+	-webkit-justify-content: center;
+	    -ms-flex-pack: center;
+	        justify-content: center;
+	color: #008080;
+	margin-top: 60rpx;
+}
+
